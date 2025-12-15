@@ -1,1 +1,3 @@
-*Replace with your own content, instructions in `Exercise.md`*
+# Welcome to my guestbook!
+
+Please leave a message as a separate file in `guestbook/`
